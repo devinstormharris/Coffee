@@ -1,1 +1,1 @@
-web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True linear_regression_analysis.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser linear_regression_analysis.ipynb
